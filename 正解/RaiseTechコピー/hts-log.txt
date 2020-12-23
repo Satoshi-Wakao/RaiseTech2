@@ -1,0 +1,141 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 23 Dec 2020 22:20:37 at https://raise-tech.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ja, en, *" https://raise-tech.net/ -O1 "D:\RaiseTech\Practice\RaiseTech_copy\正解\RaiseTechコピー" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:20:37	Warning: 	Note: due to https://raise-tech.net remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+22:20:40	Error: 	Unable to save file D:/RaiseTech/Practice/RaiseTech_copy/正解/RaiseTechコピー/raise-tech.net/wp-content/cache/autoptimize/js/autoptimize_single_2679804994c2adf8fa0126a0f1c4792d48f5.js: No such file or directory
+22:20:41	Error: 	Unable to save file D:/RaiseTech/Practice/RaiseTech_copy/正解/RaiseTechコピー/raise-tech.net/wp-content/themes/raisetech2019/common/js/jquery.inview.min48f5.js: No such file or directory
+22:20:46	Error: 	Unable to save file D:/RaiseTech/Practice/RaiseTech_copy/正解/RaiseTechコピー/raise-tech.net/wp-content/plugins/webp-express/js/picturefill.min.js: No such file or directory
+22:20:47	Error: 	Unable to save file D:/RaiseTech/Practice/RaiseTech_copy/正解/RaiseTechコピー/uh.nakanohito.jp/uhj2/uh.js: No such file or directory
+22:21:08	Error: 	Unable to save file D:/RaiseTech/Practice/RaiseTech_copy/正解/RaiseTechコピー/raise-tech.net/wp-content/plugins/native-lazyload/assets/js/lazyload.js: No such file or directory
+22:21:09	Error: 	Unable to save file D:/RaiseTech/Practice/RaiseTech_copy/正解/RaiseTechコピー/cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.minc245.js: No such file or directory
+22:21:09	Warning: 	file not stored in cache due to bogus state (broken size, expected 10429 got 0): https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js?ver=1.8.1
+22:21:09	Error: 	Unable to save file D:/RaiseTech/Practice/RaiseTech_copy/正解/RaiseTechコピー/raise-tech.net/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extra.min8066.js: No such file or directory
+22:21:11	Error: 	Unable to save file D:/RaiseTech/Practice/RaiseTech_copy/正解/RaiseTechコピー/raise-tech.net/wp-includes/js/wp-embed.min48f5.js: No such file or directory
+22:21:11	Error: 	Unable to save file D:/RaiseTech/Practice/RaiseTech_copy/正解/RaiseTechコピー/platform.twitter.com/widgets.js: No such file or directory
+22:21:11	Warning: 	file not stored in cache due to bogus state (broken size, expected 28698 got 0): https://platform.twitter.com/widgets.js
+22:21:11	Error: 	"Error when decompressing" (-1) at link https://raise-tech.net/wp-content/cache/autoptimize/css/autoptimize_7242fcccc5c75cd34160219aa70a5b23.css (from https://raise-tech.net/)
+22:21:11	Error: 	"Error when decompressing" (-1) at link https://connect.facebook.net/en_US/fbevents.js (from https://raise-tech.net/)
+22:21:11	Error: 	"Not Found" (404) at link https://raise-tech.net/ebis.ne.jp/ (from https://raise-tech.net/)
+22:21:37	Error: 	"Error when decompressing" (-1) at link https://raise-tech.net/seminar/ (from https://raise-tech.net/)
+22:21:42	Error: 	"Error when decompressing" (-1) at link https://raise-tech.net/wp-content/uploads/2020/07/top-1-1.svg (from https://raise-tech.net/)
+22:21:49	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 10429 expected)) at link https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js?ver=1.8.1 (from https://raise-tech.net/)
+22:21:49	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 28698 expected)) at link https://platform.twitter.com/widgets.js (from https://raise-tech.net/)
+22:21:49	Warning: 	Moved Permanently for https://raise-tech.net/?p=5
+22:21:49	Warning: 	File has moved from https://raise-tech.net/?p=5 to https://raise-tech.net/about-raisetech
+22:21:50	Error: 	Unable to save file D:/RaiseTech/Practice/RaiseTech_copy/正解/RaiseTechコピー/raise-tech.net/wp-content/themes/raisetech2019/common/webfonts/fa-brands-400.eot: No such file or directory
+22:21:54	Warning: 	Moved Permanently for https://raise-tech.net/?p=7
+22:21:54	Warning: 	File has moved from https://raise-tech.net/?p=7 to https://raise-tech.net/support-and-trial
+22:21:54	Warning: 	Moved Permanently for https://raise-tech.net/?p=9
+22:21:54	Warning: 	File has moved from https://raise-tech.net/?p=9 to https://raise-tech.net/job-finding-support
+22:21:54	Warning: 	Moved Permanently for https://raise-tech.net/?p=11
+22:21:54	Warning: 	File has moved from https://raise-tech.net/?p=11 to https://raise-tech.net/user-flow
+22:21:54	Warning: 	Moved Permanently for https://raise-tech.net/?p=1520
+22:21:54	Warning: 	File has moved from https://raise-tech.net/?p=1520 to https://raise-tech.net/courses/design-course
+22:21:54	Error: 	"Not Found" (404) at link https://raise-tech.net/courses/ebis.ne.jp/ (from https://raise-tech.net/courses/design-course)
+22:21:54	Warning: 	Moved Permanently for https://raise-tech.net/?p=1153
+22:21:54	Warning: 	File has moved from https://raise-tech.net/?p=1153 to https://raise-tech.net/courses/wordpress-sidejob-course
+22:21:54	Warning: 	Moved Permanently for https://raise-tech.net/?p=185
+22:21:54	Warning: 	File has moved from https://raise-tech.net/?p=185 to https://raise-tech.net/courses/aws-full-course
+22:21:54	Warning: 	Moved Permanently for https://raise-tech.net/?p=544
+22:21:54	Warning: 	File has moved from https://raise-tech.net/?p=544 to https://raise-tech.net/courses/aws-automation-course
+22:21:54	Warning: 	Moved Permanently for https://raise-tech.net/?p=39
+22:21:54	Warning: 	File has moved from https://raise-tech.net/?p=39 to https://raise-tech.net/courses/java-full-course
+22:21:54	Warning: 	Moved Permanently for https://raise-tech.net/?p=542
+22:21:54	Warning: 	File has moved from https://raise-tech.net/?p=542 to https://raise-tech.net/courses/java-framework-course
+22:21:54	Warning: 	Moved Permanently for https://raise-tech.net/graduates/feed/
+22:21:54	Warning: 	File has moved from https://raise-tech.net/graduates/feed/ to https://raise-tech.net/graduates/feed
+22:21:54	Error: 	Unable to save file D:/RaiseTech/Practice/RaiseTech_copy/正解/RaiseTechコピー/raise-tech.net/graduates/feed: Permission denied
+22:22:04	Warning: 	Moved Permanently for https://raise-tech.net/?p=13
+22:22:04	Warning: 	File has moved from https://raise-tech.net/?p=13 to https://raise-tech.net/faq
+22:22:04	Warning: 	Moved Permanently for https://raise-tech.net/?p=15
+22:22:04	Warning: 	File has moved from https://raise-tech.net/?p=15 to https://raise-tech.net/inquiry
+22:22:04	Warning: 	Moved Permanently for https://raise-tech.net/?p=17
+22:22:04	Warning: 	File has moved from https://raise-tech.net/?p=17 to https://raise-tech.net/application
+22:22:06	Warning: 	Moved Permanently for https://raise-tech.net/?p=1421
+22:22:06	Warning: 	File has moved from https://raise-tech.net/?p=1421 to https://raise-tech.net/1421
+22:22:06	Error: 	"Error when decompressing" (-1) at link https://raise-tech.net/line/linefriends.html (from https://raise-tech.net/1421)
+22:22:11	Warning: 	Moved Permanently for https://raise-tech.net/?p=1530
+22:22:11	Warning: 	File has moved from https://raise-tech.net/?p=1530 to https://raise-tech.net/1530
+22:22:11	Warning: 	Moved Permanently for https://raise-tech.net/?p=1504
+22:22:11	Warning: 	File has moved from https://raise-tech.net/?p=1504 to https://raise-tech.net/1504
+22:22:11	Error: 	"Error when decompressing" (-1) at link https://raise-tech.net/teams-course/ (from https://raise-tech.net/1504)
+22:22:11	Warning: 	Moved Permanently for https://raise-tech.net/?p=1514
+22:22:11	Warning: 	File has moved from https://raise-tech.net/?p=1514 to https://raise-tech.net/graduates/1514
+22:22:11	Error: 	"Not Found" (404) at link https://raise-tech.net/graduates/ebis.ne.jp/ (from https://raise-tech.net/graduates/1514)
+22:22:11	Warning: 	Moved Permanently for https://raise-tech.net/?p=1482
+22:22:11	Warning: 	File has moved from https://raise-tech.net/?p=1482 to https://raise-tech.net/graduates/1482
+22:22:11	Warning: 	Moved Permanently for https://raise-tech.net/?p=1478
+22:22:11	Warning: 	File has moved from https://raise-tech.net/?p=1478 to https://raise-tech.net/graduates/1478
+22:22:11	Warning: 	Moved Permanently for https://raise-tech.net/?p=1474
+22:22:11	Warning: 	File has moved from https://raise-tech.net/?p=1474 to https://raise-tech.net/graduates/1474
+22:22:11	Warning: 	Moved Permanently for https://raise-tech.net/?p=19
+22:22:11	Warning: 	File has moved from https://raise-tech.net/?p=19 to https://raise-tech.net/legal-information
+22:22:11	Warning: 	Moved Permanently for https://raise-tech.net/?p=22
+22:22:11	Warning: 	File has moved from https://raise-tech.net/?p=22 to https://raise-tech.net/privacy-policy
+22:22:11	Warning: 	Moved Permanently for https://raise-tech.net/?p=24
+22:22:11	Warning: 	File has moved from https://raise-tech.net/?p=24 to https://raise-tech.net/terms-of-service
+22:22:11	Error: 	Unable to save file D:/RaiseTech/Practice/RaiseTech_copy/正解/RaiseTechコピー/raise-tech.net/graduates/feed: Permission denied
+22:22:11	Warning: 	Moved Permanently for https://raise-tech.net/?p=1470
+22:22:11	Warning: 	File has moved from https://raise-tech.net/?p=1470 to https://raise-tech.net/graduates/1470
+22:22:11	Warning: 	Moved Permanently for https://raise-tech.net/?p=1090
+22:22:11	Warning: 	File has moved from https://raise-tech.net/?p=1090 to https://raise-tech.net/graduates/1090
+22:22:11	Warning: 	Moved Permanently for https://raise-tech.net/?p=1078
+22:22:11	Warning: 	File has moved from https://raise-tech.net/?p=1078 to https://raise-tech.net/graduates/1078
+22:22:11	Warning: 	Moved Permanently for https://raise-tech.net/?p=1069
+22:22:11	Warning: 	File has moved from https://raise-tech.net/?p=1069 to https://raise-tech.net/graduates/1069
+22:22:11	Warning: 	Moved Permanently for https://raise-tech.net/?p=1064
+22:22:11	Warning: 	File has moved from https://raise-tech.net/?p=1064 to https://raise-tech.net/graduates/1064
+22:22:11	Warning: 	Moved Permanently for https://raise-tech.net/?p=1054
+22:22:11	Warning: 	File has moved from https://raise-tech.net/?p=1054 to https://raise-tech.net/graduates/1054
+22:22:11	Warning: 	Moved Permanently for https://raise-tech.net/?p=1043
+22:22:11	Warning: 	File has moved from https://raise-tech.net/?p=1043 to https://raise-tech.net/graduates/1043
+22:22:12	Warning: 	Moved Permanently for https://raise-tech.net/?p=650
+22:22:12	Warning: 	File has moved from https://raise-tech.net/?p=650 to https://raise-tech.net/graduates/650
+22:22:12	Error: 	"Not Found" (404) at link https://raise-tech.net/graduates/page/ebis.ne.jp/ (from https://raise-tech.net/graduates/page/2)
+22:22:16	Warning: 	Moved Permanently for https://raise-tech.net/graduates/
+22:22:16	Warning: 	File has moved from https://raise-tech.net/graduates/ to https://raise-tech.net/graduates
+22:22:17	Warning: 	Moved Permanently for https://raise-tech.net/?p=1427
+22:22:17	Warning: 	File has moved from https://raise-tech.net/?p=1427 to https://raise-tech.net/1427
+22:22:28	Warning: 	Moved Permanently for https://raise-tech.net/?p=634
+22:22:28	Warning: 	File has moved from https://raise-tech.net/?p=634 to https://raise-tech.net/graduates/634
+22:22:28	Warning: 	Moved Permanently for https://raise-tech.net/?p=564
+22:22:28	Warning: 	File has moved from https://raise-tech.net/?p=564 to https://raise-tech.net/graduates/564
+22:22:28	Warning: 	Moved Permanently for https://raise-tech.net/?p=557
+22:22:28	Warning: 	File has moved from https://raise-tech.net/?p=557 to https://raise-tech.net/graduates/557
+22:22:28	Warning: 	Moved Permanently for https://raise-tech.net/?p=388
+22:22:28	Warning: 	File has moved from https://raise-tech.net/?p=388 to https://raise-tech.net/graduates/388
+22:22:28	Warning: 	Moved Permanently for https://raise-tech.net/?p=67
+22:22:28	Warning: 	File has moved from https://raise-tech.net/?p=67 to https://raise-tech.net/graduates/67
+22:22:28	Warning: 	Moved Permanently for https://raise-tech.net/?p=1423
+22:22:28	Warning: 	File has moved from https://raise-tech.net/?p=1423 to https://raise-tech.net/1423
+22:22:28	Warning: 	Moved Permanently for https://raise-tech.net/?p=1276
+22:22:28	Warning: 	File has moved from https://raise-tech.net/?p=1276 to https://raise-tech.net/1276
+22:22:28	Warning: 	Moved Permanently for https://raise-tech.net/?p=1245
+22:22:28	Warning: 	File has moved from https://raise-tech.net/?p=1245 to https://raise-tech.net/1245
+22:22:28	Warning: 	Moved Permanently for https://raise-tech.net/?p=1228
+22:22:28	Warning: 	File has moved from https://raise-tech.net/?p=1228 to https://raise-tech.net/1228
+22:22:28	Warning: 	Moved Permanently for https://raise-tech.net/?p=1172
+22:22:28	Warning: 	File has moved from https://raise-tech.net/?p=1172 to https://raise-tech.net/1172
+22:22:29	Warning: 	Moved Permanently for https://raise-tech.net/?p=1138
+22:22:29	Warning: 	File has moved from https://raise-tech.net/?p=1138 to https://raise-tech.net/1138
+22:22:29	Error: 	"Not Found" (404) at link https://raise-tech.net/topics/page/ebis.ne.jp/ (from https://raise-tech.net/topics/page/2)
+22:22:36	Warning: 	Moved Permanently for https://raise-tech.net/topics/
+22:22:36	Warning: 	File has moved from https://raise-tech.net/topics/ to https://raise-tech.net/topics
+22:22:36	Warning: 	Moved Permanently for https://raise-tech.net/?p=1082
+22:22:36	Warning: 	File has moved from https://raise-tech.net/?p=1082 to https://raise-tech.net/1082
+22:22:36	Warning: 	Moved Permanently for https://raise-tech.net/?p=1016
+22:22:36	Warning: 	File has moved from https://raise-tech.net/?p=1016 to https://raise-tech.net/1016
+22:22:36	Warning: 	Moved Permanently for https://raise-tech.net/?p=1009
+22:22:36	Warning: 	File has moved from https://raise-tech.net/?p=1009 to https://raise-tech.net/1009
+22:22:36	Warning: 	Moved Permanently for https://raise-tech.net/?p=909
+22:22:36	Warning: 	File has moved from https://raise-tech.net/?p=909 to https://raise-tech.net/909
+22:22:36	Warning: 	Moved Permanently for https://raise-tech.net/?p=914
+22:22:36	Warning: 	File has moved from https://raise-tech.net/?p=914 to https://raise-tech.net/914
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 59 seconds : 360 links scanned, 295 files written (13976390 bytes overall) [13540054 bytes received at 113781 bytes/sec], 2466971 bytes transferred using HTTP compression in 31 files, ratio 60%, 11.5 requests per connection
+(23 errors, 107 warnings, 0 messages)
